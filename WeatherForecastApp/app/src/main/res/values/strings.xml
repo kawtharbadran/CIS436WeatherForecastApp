@@ -3,6 +3,7 @@
     <string name="choose_city_prompt">Choose your city to view its weather forecast.</string>
     <string name="welcome_message">Welcome!</string>
     <string-array name="cities_array">
+        <item>Select a city</item>
         <item>Detroit</item>
         <item>New York</item>
         <item>London</item>
